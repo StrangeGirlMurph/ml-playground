@@ -2,6 +2,7 @@
 A place for all my machine learning projects.
 From my first baby steps to bigger projects.  
 
+The resources come from my uni course on Deep Learning.  
 I recommend reading [Dive into Deep Learning](https://d2l.ai/index.html)
 
 ## Linear Regression
